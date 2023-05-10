@@ -12,6 +12,10 @@ public class Demo {
 		
 		System.out.println("This is the change");
 		
+
 		System.out.println("This is change 2 by Automation Tester");
+
+		System.out.println("This is next change by developer");
+
 	}
 }
